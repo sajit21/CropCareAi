@@ -2,7 +2,7 @@
 A final year project on Plant Disease Detection Sytem. 
 - collected the dataset from kaggle and other resources
 - Extra algorithm such as GrabCut for Image segmentation before feeding CNN model
-- Binary classification Alforithm to identify whether the uploaded image is Leaf or Not
+- Binary classification Algorithm to identify whether the uploaded image is Leaf or Not
 - Custom CNN Model of Deep Learning to identify the disease available in Plants
 - Python script for the interaction with the trained model
 
