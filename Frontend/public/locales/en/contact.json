@@ -1,0 +1,16 @@
+{
+  "contact": {
+    "contact_info": "Contact Information",
+    "contact_subtext": "Say something to start a live chat!",
+    "phone": "+1012 3456 789",
+    "email": "demo@gmail.com",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "email_label": "Email",
+    "message": "Message",
+    "message_placeholder": "Write your message..",
+    "send_message": "Send Message",
+    "alert_success": "Message sent!",
+    "alert_fail": "Failed to send message: "
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "editProfile": {
+    "profile": "Profile",
+    "change_photo": "Change photo",
+    "name": "Name:",
+    "email": "Email:",
+    "change_password": "Change Password",
+    "password_note": "For your security, please do not share your password with others.",
+    "current_password": "Current Password:",
+    "new_password": "New Password:",
+    "confirm_password": "Confirm Password:",
+    "save": "Save",
+    "cancel": "Cancel",
+    "updating": "updating..."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "catalog": {
+    "tomato_title": "Tomato",
+    "tomato_desc": "Common in mid-hill and Terai regions like Chitwan, Kathmandu, and Kavre.",
+    "tomato_diseases": {
+      "Early Blight": "Early Blight",
+      "Late Blight": "Late Blight",
+      "Leaf Spot": "Leaf Spot",
+      "Bacterial Wilt": "Bacterial Wilt",
+      "Mosaic Virus": "Mosaic Virus"
+    },
+    "potato_title": "Potato",
+    "potato_desc": "Grown mainly in hill and mountain regions like Kalikot, Jumla, and Dolakha.",
+    "potato_diseases": {
+      "Late Blight": "Late Blight",
+      "Early Blight": "Early Blight",
+      "Bacterial Wilt": "Bacterial Wilt",
+      "Black Scurf": "Black Scurf"
+    },
+    "apple_title": "Apple",
+    "apple_desc": "Mostly grown in high hill regions like Jumla, Mustang, and Dolpo.",
+    "apple_diseases": {
+      "Apple Scab": "Apple Scab",
+      "Powdery Mildew": "Powdery Mildew",
+      "Fire Blight": "Fire Blight",
+      "Bitter Rot": "Bitter Rot"
+    },
+    "rice_title": "Rice",
+    "rice_desc": "Cultivated widely in Terai and low-hill areas such as Morang, Jhapa, and Rupandehi.",
+    "rice_diseases": {
+      "Blast": "Blast",
+      "Brown Spot": "Brown Spot",
+      "Bacterial Leaf Blight": "Bacterial Leaf Blight",
+      "Sheath Blight": "Sheath Blight"
+    },
+    "lemon_title": "Lemon",
+    "lemon_desc": "Common in mid-hill and Terai zones especially in Syangja and Dhading.",
+    "lemon_diseases": {
+      "Citrus Canker": "Citrus Canker",
+      "Gummosis": "Gummosis",
+      "Greening Disease": "Greening Disease",
+      "Anthracnose": "Anthracnose"
+    }
+  }
+}

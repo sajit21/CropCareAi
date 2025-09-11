@@ -1,0 +1,73 @@
+# Node
+node_modules/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+/dist/
+/build/
+/.next/
+/.vercel/
+
+# Vite
+/.vite/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+ENV/
+.env.*
+
+# Jupyter
+.ipynb_checkpoints
+
+# Misc
+*.sqlite3
+*.db
+
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.vite/
+
+# Backend
+Backend/node_modules/
+Backend/dist/
+Backend/.env
+Backend/.env.*
+
+# Others
+*.bak
+*.swp
+*.swo
+
+# Local files
+local_settings.py
+
+# Coverage
+coverage/
+*.cover
+*.coverage
+
+# Test
+junit.xml
+coverage.xml
+
+# Cloudinary
+cloudinary.env

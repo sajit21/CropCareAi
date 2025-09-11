@@ -1,0 +1,11 @@
+{
+    "charts.diagnosesOverTime": "रोग निदानको समय",
+    "charts.diseaseShare": "रोगको हिस्सा",
+    "charts.activityByHour": "घण्टानुसारको गतिविधि",
+    "charts.top5diseases": "शीर्ष ५ रोग",
+    "charts.totalUsers": "कुल प्रयोगकर्ता",
+    "charts.totalDiagnoses": "कुल निदान",
+    "charts.diseasesTracked": "निगरानी गरिएका रोगहरू",
+    "charts.uploadsToday": "आजको अपलोड",
+    "charts.overview": "अवलोकन"
+}

@@ -1,0 +1,17 @@
+{
+  "review": {
+    "user_reviews": "User Reviews",
+    "all_plants": "All Plants",
+    "no_reviews": "No reviews found for this plant.",
+    "add_review": "Add review",
+    "filter_options": {
+      "Tomato": "Tomato",
+      "Potato": "Potato",
+      "Lemon": "Lemon",
+      "Apple": "Apple",
+      "Rice": "Rice"
+    },
+    "breadcrumb": "Reviews",
+    "header": "Reviews"
+  }
+}

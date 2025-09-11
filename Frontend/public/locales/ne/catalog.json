@@ -1,0 +1,45 @@
+{
+  "catalog": {
+    "tomato_title": "टमाटर",
+    "tomato_desc": "चितवन, काठमाडौं, काभ्रे जस्ता मध्यपहाड र तराई क्षेत्रमा सामान्य।",
+    "tomato_diseases": {
+      "Early Blight": "प्रारम्भिक ब्लाइट",
+      "Late Blight": "ढिलो ब्लाइट",
+      "Leaf Spot": "पातको दाग",
+      "Bacterial Wilt": "ब्याक्टेरियल विल्ट",
+      "Mosaic Virus": "मोजाइक भाइरस"
+    },
+    "potato_title": "आलु",
+    "potato_desc": "कालिकोट, जुम्ला, दोलखा जस्ता पहाड र हिमाली क्षेत्रमा मुख्य रूपमा उत्पादन।",
+    "potato_diseases": {
+      "Late Blight": "ढिलो ब्लाइट",
+      "Early Blight": "प्रारम्भिक ब्लाइट",
+      "Bacterial Wilt": "ब्याक्टेरियल विल्ट",
+      "Black Scurf": "कालो स्कर्फ"
+    },
+    "apple_title": "स्याउ",
+    "apple_desc": "जुम्ला, मुस्ताङ, डोल्पो जस्ता उच्च पहाडी क्षेत्रमा बढी उत्पादन।",
+    "apple_diseases": {
+      "Apple Scab": "स्याउ स्क्याब",
+      "Powdery Mildew": "पाउडरी मिल्ड्यू",
+      "Fire Blight": "फायर ब्लाइट",
+      "Bitter Rot": "बिटर रट"
+    },
+    "rice_title": "धान",
+    "rice_desc": "मोरङ, झापा, रुपन्देही जस्ता तराई र कम पहाडी क्षेत्रमा व्यापक रूपमा खेती।",
+    "rice_diseases": {
+      "Blast": "ब्लास्ट",
+      "Brown Spot": "खैरो दाग",
+      "Bacterial Leaf Blight": "ब्याक्टेरियल पात ब्लाइट",
+      "Sheath Blight": "सिथ ब्लाइट"
+    },
+    "lemon_title": "कागती",
+    "lemon_desc": "सिन्धुपाल्चोक, स्याङ्जा, धादिङ जस्ता मध्यपहाड र तराई क्षेत्रमा सामान्य।",
+    "lemon_diseases": {
+      "Citrus Canker": "सिट्रस क्यान्कर",
+      "Gummosis": "गम्मोसिस",
+      "Greening Disease": "ग्रीनिङ रोग",
+      "Anthracnose": "एन्ट्राक्नोज"
+    }
+  }
+}

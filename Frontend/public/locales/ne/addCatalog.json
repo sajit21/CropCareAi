@@ -1,0 +1,22 @@
+{
+  "addCatalog.breadcrumb": "नयाँ बिरुवा थप्नुहोस्",
+  "addCatalog.header": "नयाँ बिरुवा थप्नुहोस्",
+  "addCatalog.subheader": "क्याटलगमा नयाँ बिरुवा थप्न विवरणहरू भर्नुहोस्।",
+  "addCatalog.plantNameLabel": "बिरुवाको नाम",
+  "addCatalog.plantNamePlaceholder": "जस्तै, आलु",
+  "addCatalog.imageLabel": "बिरुवाको तस्बिर",
+  "addCatalog.imagePreviewAlt": "बिरुवा पूर्वावलोकन",
+  "addCatalog.descriptionLabel": "छोटो विवरण",
+  "addCatalog.descriptionPlaceholder": "जस्तै, मुख्य रूपमा पहाड र हिमाली क्षेत्रमा उत्पादन गरिन्छ...",
+  "addCatalog.commonDiseases": "सामान्य रोगहरू",
+  "addCatalog.diseaseInputPlaceholder": "रोग टाइप गर्नुहोस् र Enter वा Add थिच्नुहोस्",
+  "addCatalog.addDiseaseBtn": "थप्नुहोस्",
+  "addCatalog.save": "सेभ गर्नुहोस्",
+  "addCatalog.saving": "सेभ हुँदैछ...",
+  "addCatalog.edit": "सम्पादन गर्नुहोस्",
+  "addCatalog.updating": "अपडेट हुँदैछ...",
+  "addCatalog.success": "बिरुवा सफलतापूर्वक थपियो!",
+  "addCatalog.error": "क्याटलग थप्न असफल भयो",
+  "addCatalog.updateSuccess": "बिरुवा सफलतापूर्वक अपडेट भयो!",
+  "addCatalog.updateError": "क्याटलग अपडेट गर्न असफल भयो"
+}

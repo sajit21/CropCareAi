@@ -1,0 +1,20 @@
+{
+  "adminusers.breadcrumb": "Users",
+  "adminusers.searchPlaceholder": "Search by name or email...",
+  "adminusers.filter": "Filter",
+  "adminusers.roleLabel": "Role",
+  "adminusers.allRoles": "All Roles",
+  "adminusers.admin": "Admin",
+  "adminusers.customer": "Customer",
+  "adminusers.sortByDate": "Sort by Date",
+  "adminusers.newestFirst": "Newest First",
+  "adminusers.oldestFirst": "Oldest First",
+  "adminusers.name": "Name",
+  "adminusers.email": "Email",
+  "adminusers.joinedAt": "Joined At",
+  "adminusers.role": "Role",
+  "adminusers.diagnoses": "Diagnoses",
+  "adminusers.noUsers": "No users found",
+  "adminusers.showLess": "Show Less",
+  "adminusers.seeAll": "See All {{count}} Users"
+}

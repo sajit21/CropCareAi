@@ -1,0 +1,17 @@
+{
+  "review": {
+    "user_reviews": "प्रयोगकर्ता समीक्षाहरू",
+    "all_plants": "सबै बोटहरू",
+    "no_reviews": "यो बोटका लागि कुनै समीक्षा फेला परेन।",
+    "add_review": "समीक्षा थप्नुहोस्",
+    "filter_options": {
+      "Tomato": "टमाटर",
+      "Potato": "आलु",
+      "Lemon": "कागती",
+      "Apple": "स्याउ",
+      "Rice": "धान"
+    },
+    "breadcrumb": "समीक्षा",
+    "header": "समीक्षा"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sidebar.menu": "Menu",
+  "sidebar.dashboard": "Dashboard",
+  "sidebar.overview": "Overview",
+  "sidebar.catalog": "Catalog",
+  "sidebar.viewCatalog": "View Catalog",
+  "sidebar.addNewPlant": "Add New Plant",
+  "sidebar.reviews": "Reviews",
+  "sidebar.viewReviews": "View Reviews",
+  "sidebar.users": "Users",
+  "sidebar.userList": "User List",
+  "sidebar.new": "new",
+  "sidebar.pro": "pro",
+  "sidebar.models": "Model",
+  "sidebar.viewModels":"Model Overview"
+}

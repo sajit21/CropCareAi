@@ -1,0 +1,20 @@
+{
+  "adminuserdetail.role.admin": "Admin",
+  "adminuserdetail.role.user": "User",
+  "adminuserdetail.diagnosesHeader": "User Diagnoses",
+  "adminuserdetail.plant": "Plant",
+  "adminuserdetail.name": "Name",
+  "adminuserdetail.disease": "Disease",
+  "adminuserdetail.remedy": "Remedy",
+  "adminuserdetail.confidence": "Confidence",
+  "adminuserdetail.noDiagnoses": "No diagnoses available.",
+  "adminuserdetail.reviewsHeader": "User Reviews",
+  "adminuserdetail.accuracy": "Accuracy",
+  "adminuserdetail.suggestion": "Suggestion",
+  "adminuserdetail.noReviews": "No reviews available.",
+  "adminuserdetail.adminControls": "Admin Controls",
+  "adminuserdetail.revokeAdmin": "Revoke Admin Privileges",
+  "adminuserdetail.makeAdmin": "Make Admin",
+  "adminuserdetail.demoteText": "This will demote the user to a standard role.",
+  "adminuserdetail.promoteText": "This will grant the user full administrative privileges."
+}

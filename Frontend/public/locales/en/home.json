@@ -1,0 +1,18 @@
+{
+  "home": {
+    "feature1_title": "Protect Your Crop Smarter",
+    "feature1_desc": "Empower your farming with our AI-based system that detects plant diseases early and suggests remedies instantly—ensuring healthier yields and reduced crop loss.",
+    "feature1_button": "Upload",
+    "feature2_title": "Explore Our Plant Catalog",
+    "feature2_desc": "Easily browse all supported plants to know exactly which crops you can scan for disease detection—making your farming decisions smarter and faster.",
+    "feature2_button": "View",
+    "feature3_title": "Leave a Review, Help the Community",
+    "feature3_desc": "Tried the system? Use our review feature to rate its accuracy, ease of use, and suggest improvements.",
+    "feature3_button": "Review",
+    "hero_title": "Detect Plant Disease\nIn Seconds",
+    "hero_desc": "Using image analysis or simple symptom selection — empowering farmers with fast, accurate, and accessible diagnostic tools.",
+    "hero_start": "Start",
+    "hero_learn": "Learn more",
+    "features_section": "Explore Our Features"
+  }
+}

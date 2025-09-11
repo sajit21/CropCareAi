@@ -1,0 +1,20 @@
+{
+  "adminuserdetail.role.admin": "प्रशासक",
+  "adminuserdetail.role.user": "प्रयोगकर्ता",
+  "adminuserdetail.diagnosesHeader": "प्रयोगकर्ताको रोग पहिचान",
+  "adminuserdetail.plant": "बिरुवा",
+  "adminuserdetail.name": "नाम",
+  "adminuserdetail.disease": "रोग",
+  "adminuserdetail.remedy": "उपचार",
+  "adminuserdetail.confidence": "विश्वास स्तर",
+  "adminuserdetail.noDiagnoses": "रोग पहिचान उपलब्ध छैन।",
+  "adminuserdetail.reviewsHeader": "प्रयोगकर्ता समीक्षा",
+  "adminuserdetail.accuracy": "शुद्धता",
+  "adminuserdetail.suggestion": "सुझाव",
+  "adminuserdetail.noReviews": "समीक्षा उपलब्ध छैन।",
+  "adminuserdetail.adminControls": "प्रशासनिक नियन्त्रण",
+  "adminuserdetail.revokeAdmin": "प्रशासक अधिकार हटाउनुहोस्",
+  "adminuserdetail.makeAdmin": "प्रशासक बनाउनुहोस्",
+  "adminuserdetail.demoteText": "यसले प्रयोगकर्तालाई सामान्य भूमिकामा घटाउनेछ।",
+  "adminuserdetail.promoteText": "यसले प्रयोगकर्तालाई पूर्ण प्रशासनिक अधिकार दिनेछ।"
+}

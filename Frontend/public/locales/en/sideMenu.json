@@ -1,0 +1,12 @@
+{
+  "sideMenu": {
+    "home": "Home",
+    "upload": "Upload",
+    "review": "Review",
+    "contact": "Contact Us",
+    "image": "Image",
+    "text": "Text",
+    "logout": "Logout",
+    "login": "Login"
+  }
+}

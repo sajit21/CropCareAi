@@ -1,0 +1,17 @@
+{
+  "upload": {
+    "title": "UPLOAD FILES",
+    "drag_drop": "Drag & Drop",
+    "your_files_here": "Your files here Or",
+    "click_browse": "Click/Browse",
+    "to_upload": "to upload",
+    "accept_formats": "We accept the following file formats only",
+    "max_size": "Maximum upload file size: 15 MB. For more info, please",
+    "click_here": "click here",
+    "predict": "Predict",
+    "predicting": "predicting...",
+    "disease": "Disease:",
+    "remedy": "Remedy:",
+    "review": "Review"
+  }
+}

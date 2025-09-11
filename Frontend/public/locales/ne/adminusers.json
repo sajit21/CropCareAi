@@ -1,0 +1,20 @@
+{
+  "adminusers.breadcrumb": "प्रयोगकर्ता",
+  "adminusers.searchPlaceholder": "नाम वा इमेलबाट खोज्नुहोस्...",
+  "adminusers.filter": "फिल्टर",
+  "adminusers.roleLabel": "भूमिका",
+  "adminusers.allRoles": "सबै भूमिका",
+  "adminusers.admin": "प्रशासक",
+  "adminusers.customer": "ग्राहक",
+  "adminusers.sortByDate": "मितिबाट क्रमबद्ध गर्नुहोस्",
+  "adminusers.newestFirst": "नयाँ पहिले",
+  "adminusers.oldestFirst": "पुरानो पहिले",
+  "adminusers.name": "नाम",
+  "adminusers.email": "इमेल",
+  "adminusers.joinedAt": "जोडिएको मिति",
+  "adminusers.role": "भूमिका",
+  "adminusers.diagnoses": "रोग पहिचान",
+  "adminusers.noUsers": "प्रयोगकर्ता फेला परेनन्",
+  "adminusers.showLess": "कम देखाउनुहोस्",
+  "adminusers.seeAll": "सबै {{count}} प्रयोगकर्ता देखाउनुहोस्"
+}

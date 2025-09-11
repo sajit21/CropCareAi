@@ -1,0 +1,12 @@
+{
+  "recentUploads.header": "हालका अपलोडहरू",
+  "recentUploads.showLess": "कम देखाउनुहोस्",
+  "recentUploads.seeAll": "सबै देखाउनुहोस्",
+  "recentUploads.user": "प्रयोगकर्ता",
+  "recentUploads.plantImage": "बिरुवाको तस्बिर",
+  "recentUploads.plantName": "बिरुवाको नाम",
+  "recentUploads.diseaseDiagnosed": "रोग पहिचान",
+  "recentUploads.confidence": "विश्वास स्तर",
+  "recentUploads.date": "मिति",
+  "recentUploads.plantImageAlt": "बिरुवा"
+}

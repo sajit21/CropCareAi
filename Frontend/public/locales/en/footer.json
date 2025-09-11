@@ -1,0 +1,13 @@
+{
+  "footer": {
+    "brand": "fixPlant",
+    "tagline": "We help you protect your plant",
+    "information": "Information",
+    "catalogs": "Catalogs",
+    "reviews": "Reviews",
+    "contact": "Contact",
+    "gettingStarted": "Getting Started",
+    "copyright": "© {{year}} all Right Reserved",
+    "terms": "Term of use"
+  }
+}

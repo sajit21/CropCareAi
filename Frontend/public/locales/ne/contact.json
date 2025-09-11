@@ -1,0 +1,16 @@
+{
+  "contact": {
+    "contact_info": "सम्पर्क जानकारी",
+    "contact_subtext": "प्रत्यक्ष च्याट सुरु गर्न केही भन्नुहोस्!",
+    "phone": "+१०१२ ३४५६ ७८९",
+    "email": "demo@gmail.com",
+    "first_name": "पहिलो नाम",
+    "last_name": "थर",
+    "email_label": "इमेल",
+    "message": "सन्देश",
+    "message_placeholder": "यहाँ आफ्नो सन्देश लेख्नुहोस्..",
+    "send_message": "सन्देश पठाउनुहोस्",
+    "alert_success": "सन्देश पठाइयो!",
+    "alert_fail": "सन्देश पठाउन असफल: "
+  }
+}

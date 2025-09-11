@@ -1,0 +1,22 @@
+{
+  "addCatalog.breadcrumb": "Add New Plant",
+  "addCatalog.header": "Add New Plant",
+  "addCatalog.subheader": "Fill in the details to add a new plant to the catalog.",
+  "addCatalog.plantNameLabel": "Plant Name",
+  "addCatalog.plantNamePlaceholder": "e.g., Potato",
+  "addCatalog.imageLabel": "Plant Image",
+  "addCatalog.imagePreviewAlt": "Plant Preview",
+  "addCatalog.descriptionLabel": "Short Description",
+  "addCatalog.descriptionPlaceholder": "e.g., Grown mainly in hill and mountain regions...",
+  "addCatalog.commonDiseases": "Common Diseases",
+  "addCatalog.diseaseInputPlaceholder": "Type a disease and press Enter or Add",
+  "addCatalog.addDiseaseBtn": "Add",
+  "addCatalog.save": "Save",
+  "addCatalog.saving": "Saving...",
+  "addCatalog.edit": "Edit",
+  "addCatalog.updating": "Updating...",
+  "addCatalog.success": "Plant added successfully!",
+  "addCatalog.error": "Failed to add catalog",
+  "addCatalog.updateSuccess": "Plant updated successfully!",
+  "addCatalog.updateError": "Failed to update catalog"
+}

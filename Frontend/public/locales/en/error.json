@@ -1,0 +1,9 @@
+{
+  "error": {
+    "title": "ERROR",
+    "not_found": "We can’t seem to find the page you are looking for!",
+    "back_home": "Back to Home Page",
+    "review_title":"Become a Member",
+    "review_message":"Please Login First to Review"
+  }
+}
